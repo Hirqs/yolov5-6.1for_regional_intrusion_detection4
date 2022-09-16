@@ -1,0 +1,16 @@
+train:D:/13Project_and_Dataset_Download/project/datasets/mydata/images/train
+val:D:/13Project_and_Dataset_Download/project/datasets/mydata/images/val
+nc:12
+names:[
+'crack',
+'finger',
+'black_core',
+'thick_line',
+'star_crack',
+'corner',
+'fragment',
+'scratch',
+'horizontal_dislocation',
+'vertical_dislocation',
+'printing_error',
+'short_circuit' ]
